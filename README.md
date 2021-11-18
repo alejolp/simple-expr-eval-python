@@ -1,6 +1,8 @@
 # Building a Parser for Fun and Profit: Why 2 + 2 = 4
 
-This is the material for the presentation *Building a Parser for Fun and Profit: Why 2 + 2 = 4* from the London Algorithms Meetup 2021.
+This is the material for the presentation *Building a Parser for Fun and Profit: Why 2 + 2 = 4* from the London Algorithms Meetup 2021:
+
+https://www.meetup.com/London-Algorithms-Meetup/events/281852307/ 
 
 The PDF for the slides can be found at: 
 
